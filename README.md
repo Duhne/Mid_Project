@@ -5,7 +5,8 @@ This was my first full project as a Data Analyst.
 
 The objective was to answer the question:
 ### Do subsidies have an influence on unemployment in Berlin?
-https://tvserieswelove.com/wp-content/uploads/2022/09/Berlin-Money-Heist-1200-1.jpg
+
+![duhne](https://cdn.gizmostory.com/wp-content/uploads/2021/12/Berlin-From-Money-Heist-East-Mojo.jpg?strip=all&lossy=1&resize=750%2C375&ssl=1)
 
 This was a particular interesting project for me because I grew up in Mexico, and unfortunately corruption rarely allows improvements for the country. Then I moved to Berlin and I was amazed about all the subsidies and unemployment programs and grants that exist. Therefore. I was curious how correlated were grants and unemployment rates and determine if there was a direct relation among this. 
 
